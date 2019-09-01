@@ -1,0 +1,5 @@
+umbrella
+monster
+New York
+Canada
+prime
